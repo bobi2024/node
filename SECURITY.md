@@ -2,7 +2,7 @@
 
 ## Bug bounty program
 
-In line with our strategy of being the safest way for users to access crypto:
+In line with our strategy of being the safest way for users to crypto:
 
 + Coinbase will be extending our [best-in-industry][1] million-dollar [HackerOne bug bounty program][2]
 to cover the Base network, the Base bridge contracts, and Base infrastructure.
